@@ -1,0 +1,3 @@
+[workspace]
+members = ["sveltekit_axum", "demoapp"]
+resolver = "2"
